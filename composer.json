@@ -1,5 +1,5 @@
 {
-    "name": "dercoder/omnipay-webmoney",
+    "name": "smsexcomua/omnipay-webmoney",
     "type": "library",
     "description": "WebMoney driver for the Omnipay payment processing library",
     "keywords": [
@@ -10,7 +10,7 @@
         "pay",
         "payment"
     ],
-    "homepage": "https://github.com/dercoder/omnipay-webmoney",
+    "homepage": "https://github.com/smsexcomua/webmoney",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -18,7 +18,7 @@
         }
     },
     "require": {
-        "omnipay/common": "~2.3"
+        "omnipay/common": "3.0.2"
     },
     "require-dev": {
         "omnipay/tests": "~2.0",
