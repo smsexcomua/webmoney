@@ -7,9 +7,7 @@ use Omnipay\Common\AbstractGateway;
 /**
  * WebMoney Gateway.
  *
- * @author    Alexander Fedra <contact@dercoder.at>
- * @copyright 2015 DerCoder
- * @license   http://opensource.org/licenses/mit-license.php MIT
+https://smsex.com.ua/board/posts/create
  */
 class Gateway extends AbstractGateway
 {
