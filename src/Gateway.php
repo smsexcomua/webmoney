@@ -7,7 +7,7 @@ use Omnipay\Common\AbstractGateway;
 /**
  * WebMoney Gateway.
  *
-https://smsex.com.ua/board/posts/create
+*https://smsex.com.ua/board/posts/create
  */
 class Gateway extends AbstractGateway
 {
